@@ -1,5 +1,5 @@
 # 📝 Exam Prepare CLI  
-A GenAI-powered command-line tool that creates personalized mock tests based on any topic and description you provide. It uses prompting, RAG (Retrieval-Augmented Generation), structured output, and function calling to simulate realistic exam preparation in seconds.
+GenAI-powered command-line tool that creates personalized mock tests based on any topic and description you provide. It uses prompting, RAG (Retrieval-Augmented Generation), structured output, and function calling to simulate realistic exam preparation in seconds.
 
 ---
 
