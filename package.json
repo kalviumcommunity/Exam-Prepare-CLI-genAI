@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "jest",
+    "embed:sample": "node src/cli-embed-example.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"      
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
